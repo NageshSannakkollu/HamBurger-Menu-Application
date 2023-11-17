@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Roboto';
+}
+
+.notfound-image {
+  height: 300px;
+  width: 300px;
+}
+
+.lost-heading {
+  font-size: 23px;
+}
+
+.lost-description {
+  font-size: 14px;
+  font-weight: 300px;
+  color: #616e7c;
+}

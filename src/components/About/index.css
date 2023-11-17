@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.about-image {
+  height: 370px;
+  width: 300px;
+}
+
+.home-container-button {
+  border: 0;
+  background-color: transparent;
+  border-width: 0;
+}
